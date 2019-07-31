@@ -1,0 +1,39 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "0.7",
+      "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
+      "changelog": "1.完整功能.\n2.稳定性提升.\n3.解决部分已知bug.\n4.董事长要我好好做软件总监，不然拿我祭天.",
+      "mandatory": true
+    },
+    "osx": {
+      "open-url": "",
+      "latest-version": "0.6",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Mac OS X. Go on...",
+      "mandatory": true
+    },
+    "linux": {
+      "open-url": "",
+      "latest-version": "0.6",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Linux. Go on...",
+      "mandatory": true
+    },
+    "ios": {
+      "open-url": "",
+      "latest-version": "0.6",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for iOS. Go on...",
+      "mandatory": true
+    },
+    "android": {
+      "open-url": "",
+      "latest-version": "0.6",
+      "download-url": "https://raw.githubusercontent.com/alex-spataru/QSimpleUpdater/master/tutorial/download/YesItWorks.jpg",
+      "changelog": "This is an example changelog for Android. Go on...",
+      "mandatory": true
+    }
+  }
+}
