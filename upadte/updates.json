@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "0.7",
+      "latest-version": "0.8",
       "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
-      "changelog": "1.完整功能.\n2.稳定性提升.\n3.解决部分已知bug.\n4.董事长要我好好做软件总监，不然拿我祭天.",
+      "changelog": "1.添加退出保存上个软件状态，完全退出后，再次打开恢复之前状态。.\n2.稳定性提升.\n3.解决部分已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n5.如果升级失败，请右下角目录选择全部更新，下载完整程序包.",
       "mandatory": true
     },
     "osx": {
