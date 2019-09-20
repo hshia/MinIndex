@@ -5,7 +5,7 @@
       "latest-version": "0.81",
       "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
       "changelog": "1.添加程序透明选择，可以选择主界面透明程度.\n2.稳定性提升.\n3.解决部分已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n5.如果升级失败，请右下角托盘目录选择完整更新，下载完整程序包.",
-      "mandatory": true
+      "mandatory": false
     },
     "osx": {
       "open-url": "",
