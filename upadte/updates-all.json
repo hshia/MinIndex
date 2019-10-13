@@ -3,7 +3,7 @@
     "windows": {
       "open-url": "",
       "latest-version": "0.84",
-      "download-url": "https://cvws.icloud-content.com/B/AdcD8V3vGCkp32yUEMAWGTaU0wCvAcjqOAbxJRIidnaFmuiJTDDnvvVi/%E7%9F%B3%E5%B2%A9%20-%20%E6%B0%B8%E5%A4%9C%20(%E7%94%B5%E8%A7%86%E5%89%A7%E5%8E%9F%E5%A3%B0%E7%89%88).mp3?o=ApvpNahFUBeIpWNiWM9d9KLwNkKQWtJ7Tf80yl9tlKI2&v=1&x=3&a=CAogVvGjvOMC8_bnp0BGLyDjDJTrUVvGBp8gDoF3gWGI0QkSHRCe7a742y0YnsqK-tstIgEAUgSU0wCvWgTnvvVi&e=1570871878&k=i0kSeUi81lYtrCob-ej9WA&fl=&r=99d2b2f5-6963-4987-ba53-b572cf94c97e-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=39&s=3nQEbaADUMjSNnfUoG0dCh4mQ7E&%20=8d237ab8-8f2c-411f-8122-9fa66b88b8ba",
+      "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
       "changelog": "1.解决港资数据查看错误问题.\n2.稳定性提升.\n3.解决部分其它已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n5.如果升级循环失败，请选择右下角托盘目录选择完整更新，下载完整程序包.",
       "mandatory-update": false
     },
