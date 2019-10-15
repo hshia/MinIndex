@@ -2,7 +2,7 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "0.91",
+      "latest-version": "0.80",
       "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
       "changelog": "1.添加断点记忆升级，没有下载成功，下次更新可以继续下载，保证效率..\n2.稳定性提升.\n3.解决部分其它已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n5.如果升级循环失败，请选择右下角托盘目录选择完整更新，下载完整程序包.",
       "mandatory-update": false
