@@ -2,9 +2,9 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "0.92",
+      "latest-version": "0.93",
       "download-url": "https://raw.githubusercontent.com/hshia/MinIndex/master/upadte/MinIndex.exe",
-      "changelog": "1.添加小屏幕模式置顶功能，保证显示在最前面.\n2.修正沪深港通每日数据显示不完整的问题.\n3.修正软件邮箱地址为MinIndex@hotmail.com解决部分其它已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n注意*如果升级循环失败，请选择右下角托盘目录选择完整更新，下载完整程序包，后解压替换所有文件.",
+      "changelog": "1.添加小屏幕模式置顶功能，保证显示在最前面.\n2.修正沪深港通每日数据显示不完整的问题.\n3.修正软件邮箱地址为MinIndex@hotmail.com解决部分其它已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n\n*注意:如果升级循环失败，请选择右下角托盘目录选择完整更新，下载完整程序包，后解压替换所有文件.",
       "mandatory-update": true
     },
     "osx": {
