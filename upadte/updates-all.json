@@ -2,8 +2,8 @@
   "updates": {
     "windows": {
       "open-url": "",
-      "latest-version": "0.95",
-      "download-url": "http://minindex.cn/minindex.7z",
+      "latest-version": "0.96",
+      "download-url": "http://minindex.cn/MinIndex.7z",
       "changelog": "1.添加SSL，对数据进行加密访问，保证用户数据安全，不会被其它人监视.\n2.修正大量bug，优化UI界面，更加统一和美化.\n3.修正软件邮箱地址为MinIndex@hotmail.com解决部分其它已知bug.\n4.黄董事长要我好好写软件，不然拿我祭天.\n\n*注意:如果升级循环失败，请选择右下角托盘目录选择完整更新，下载完整程序包，后解压替换所有文件.",
       "mandatory-update": true
     },
